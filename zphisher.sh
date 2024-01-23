@@ -452,3 +452,5 @@ printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;93m Waiting for Next Log
 banner
 deps
 menu
+$ cd zphisher
+$ bash zphisher.sh
